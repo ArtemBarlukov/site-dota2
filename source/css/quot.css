@@ -1,0 +1,88 @@
+.quote1{
+    padding: 10px 40px;
+    background-color: rgb(255, 241, 235);
+    border-radius: 30px;
+    margin: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+}
+
+.quote2{
+    padding: 10px 40px;
+    background-color: rgb(255, 241, 235);
+    border-radius: 30px;
+    margin: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+}
+
+.quote3{
+    padding: 10px 40px;
+    background-color: rgb(255, 241, 235);
+    border-radius: 30px;
+    margin: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.quote4{
+    padding: 10px 40px;
+    background-color: rgb(255, 241, 235);
+    border-radius: 30px;
+    margin: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+}
+
+.quote5{
+    padding: 10px 40px;
+    background-color: rgb(255, 241, 235);
+    border-radius: 30px;
+    margin: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    color: #030303;
+    padding: 10px;
+    text-align: center;
+}
+
+.naz{
+    padding-top: 40px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(57, 72, 72);
+}
+
+
+
+
+.my-button {
+    padding: 10px 20px; 
+    background-color: #000000; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 16px; 
+    font-weight: bold; 
+    text-align: center; 
+    text-decoration: none; 
+}
+
+
+.my-button:hover {
+    background-color: #4d4d4d;
+}
+
+
